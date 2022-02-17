@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 
 # Tech-stacks
 
-<hr/>
-
-## 
 <details>
   <summary>💻 Programming Languages</summary>
   <p>
