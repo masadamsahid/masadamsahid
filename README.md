@@ -56,7 +56,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-    <img src=""/>
   </p>
 </details>
 
@@ -171,9 +170,6 @@ Here are some ideas to get you started:
 > ### Platform Development :
 > <p>
 > <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-> <img src=""/>
-> <img src=""/>
-> <img src=""/>
 > </p>
 
 <hr/>
@@ -210,7 +206,10 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCjwGYOoNHTYzgwtih6oNBfQ" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+<!--   
   <a href="" target="_blank">
   <img src=""/>
   </a>
+   -->
+
 </p>
