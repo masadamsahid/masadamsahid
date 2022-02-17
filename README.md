@@ -162,21 +162,30 @@ Here are some ideas to get you started:
 > </p>
 
 > ### Blockchain, Cryptocurrency, & NFT :<br>
-> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+> <p>
+> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+> </p>
+
 
 > ### Platform Development :
+> <p>
 > <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
+> <img src=""/>
+> <img src=""/>
+> <img src=""/>
+> </p>
 
 <hr/>
 
 ## PC Setup:
+<p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/asus%20a442u-0077B5?style=for-the-badge&logo=asus&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/i5_8250u-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img src="https://img.shields.io/badge/NVIDIA-930MX_2GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
 
 <hr/>
 
