@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <hr/>
 
 ## ✨ Github Stats
-<div align="center">  
-  <img height="100%" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
-  <img height="100%" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
+<div class="row d-flex justifiy-content-center">  
+  <img class="col-5" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
+  <img class="col-5" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
 </div>
 
 <hr/>
