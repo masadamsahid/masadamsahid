@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## ✨ Github Stats
 <div class="row d-flex align-items-center" align="center">
-  <img class="col-4" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
-  <img class="col-4" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
+  <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
+  <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
 </div>
 
 <hr/>
@@ -48,17 +48,6 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary> Other Languages</summary>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
-  </p>
-</details>
-
-<hr/>
-
-<details>
   <summary> Front End </summary>
   <p>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -77,25 +66,6 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<details>
-  <summary>Database</summary>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </p>
-</details>
-
-<details>
-  <summary>Deploy</summary>
-  <p>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </p>
-</details>
-
 <hr/>
 
 <details>
@@ -105,11 +75,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
   </p>
 </details>
 
-<details>
+<!-- <details>
   <summary>
     Code Editor, IDE, Tools, Runtime, Environment, etc.
   </summary>
@@ -128,7 +97,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   </p>
-</details>
+</details> -->
 
 <hr/>
 
@@ -155,18 +124,6 @@ Here are some ideas to get you started:
 > <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 > <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-> </p>
-
-> ### Blockchain, Cryptocurrency, & NFT :<br>
-> <p>
-> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
-> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-> </p>
-
-
-> ### Platform Development :
-> <p>
-> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 > </p>
 
 <hr/>
