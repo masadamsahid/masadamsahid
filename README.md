@@ -113,6 +113,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
+<!--
 ## Currently Learning:
 
 > ### Data Science & Machine Learning :<br>
@@ -127,6 +128,7 @@ Here are some ideas to get you started:
 > </p>
 
 <hr/>
+-->
 
 ## PC Setup:
 <p align="center">
