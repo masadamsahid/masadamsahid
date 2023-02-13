@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 </h2>
 <div class="row d-flex align-items-center" align="center">
   <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
+  <br/>
   <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
 </div>
 
