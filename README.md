@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 > Frontend Web Developer
 
 <hr/>
-
-## ✨ Github Stats
+<h2 align="center">
+✨Github Stats✨
+</h2>
 <div class="row d-flex align-items-center" align="center">
   <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api?username=masadamsahid&show_icons=true&theme=radical"/>
   <img class="col-2" src="https://github-readme-stats-masadamsahid.vercel.app/api/top-langs/?username=masadamsahid&show_icons=true&theme=radical&layout=compact&hide=css"/>
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-# Tech-stacks
+<h2 align="center">Tech-stacks</h2>
 
 
   <h3 align="center">💻 Programming Languages</h3>
@@ -124,7 +125,7 @@ Here are some ideas to get you started:
 <hr/>
 -->
 
-## PC Setup:
+<h2 align="center">PC Setup: </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/asus%20a442u-0077B5?style=for-the-badge&logo=asus&logoColor=white"/>
@@ -135,7 +136,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-# Repo and Socmed Links
+<h2 align="center">Repo and Socmed Links</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/masadamsahid/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
