@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 > I'm Adam, a final year student at Computer and Information System at Vocational College of Universitas Gadjah Mada.
 
 > Frontend Web Developer
+-->
 
 <hr/>
 <h2 align="center">
